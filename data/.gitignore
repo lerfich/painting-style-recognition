@@ -1,4 +1,9 @@
 # Ignore everything in this directory
-*
+expressionism/*
+impressionism/*
+realism/*
+romanticism/*
+uploaded/*
+to_upload/*
 # Except this file
 !.gitignore
